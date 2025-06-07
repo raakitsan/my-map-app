@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "shrill-unit-f102",
+	"name": "my-map-app",
 	"main": "worker/index.js",
 	"compatibility_date": "2025-05-25",
 	"assets": {
