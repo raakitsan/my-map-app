@@ -15,7 +15,7 @@
 	},
 	"routes": [
 		{
-			"pattern": "raak-on.com/*",
+			"pattern": "raak-on.com",
 			"custom_domain": true
 		}
 	],
